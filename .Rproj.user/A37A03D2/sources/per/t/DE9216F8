@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585940654300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3283661081",
+    "id" : "DE9216F8",
+    "lastKnownWriteTime" : 1585946212,
+    "last_content_update" : 1585946212265,
+    "path" : "D:/Git_damiano/2020-04_vsvirus_prototype/Rfunctions.R",
+    "project_path" : "Rfunctions.R",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "36",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

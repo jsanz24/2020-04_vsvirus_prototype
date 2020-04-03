@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585927327657.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2446399803",
+    "id" : "2E4899AA",
+    "lastKnownWriteTime" : 1585946263,
+    "last_content_update" : 1585946263791,
+    "path" : "D:/Git_damiano/2020-04_vsvirus_prototype/01 create dummy data.R",
+    "project_path" : "01 create dummy data.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

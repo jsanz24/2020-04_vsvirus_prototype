@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585953503778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3021151007",
+    "id" : "61EA44DC",
+    "lastKnownWriteTime" : 1585953710,
+    "last_content_update" : 1585953710798,
+    "path" : "D:/Git_damiano/2020-04_vsvirus_prototype/example01 - radar/global.R",
+    "project_path" : "example01 - radar/global.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

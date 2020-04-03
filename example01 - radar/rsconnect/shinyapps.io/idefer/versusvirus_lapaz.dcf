@@ -1,0 +1,13 @@
+name: versusvirus_lapaz
+title: versusvirus_lapaz
+username:
+account: idefer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2054015
+bundleId: 2966693
+url: https://idefer.shinyapps.io/versusvirus_lapaz/
+when: 1585956581.35316
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
